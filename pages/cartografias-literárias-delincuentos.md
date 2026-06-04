@@ -20,6 +20,9 @@ nav: false
 	allowfullscreen
 ></iframe>
 
+<br />
+
+
 
 **StoryMap:** [Delincuentos StoryMap](https://elisabric.github.io/delincuentos-storymap/#12){:target="_blank" rel="noopener"}
 
@@ -31,6 +34,8 @@ nav: false
 	loading="lazy"
 	allowfullscreen
 ></iframe>
+
+<br />
 </div>
 **Database:**
 
