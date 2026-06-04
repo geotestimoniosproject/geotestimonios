@@ -9,7 +9,7 @@ nav: false
 
 **Description:**
 
-**Map:** [Delincuentos Map](https://elisabric.github.io/delincuentos/){:target="_blank" rel="noopener"}
+[Delincuentos Map](https://elisabric.github.io/delincuentos/){:target="_blank" rel="noopener"}
 
 <iframe
 	src="https://elisabric.github.io/delincuentos/"
@@ -20,7 +20,7 @@ nav: false
 	allowfullscreen
 ></iframe>
 
-<br />
+<div style="height: 2rem;"></div>
 
 
 
@@ -35,8 +35,8 @@ nav: false
 	allowfullscreen
 ></iframe>
 
-<br />
-</div>
+<div style="height: 2rem;"></div>
+
 **Database:**
 
 **Reflection:**
