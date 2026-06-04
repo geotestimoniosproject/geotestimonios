@@ -8,9 +8,10 @@ nav: false
 # Delincuentos: Historias Del Narcotrafico
 
 Description:
+
 Map:
 
-StoryMap:
+StoryMap: [Delincuentos StoryMap](https://elisabric.github.io/delincuentos-storymap/#12){:target="_blank" rel="noopener"}
 
 <iframe
 	src="https://elisabric.github.io/delincuentos-storymap/#12"
@@ -20,8 +21,6 @@ StoryMap:
 	loading="lazy"
 	allowfullscreen
 ></iframe>
-
-[Open StoryMap in a new tab](https://elisabric.github.io/delincuentos-storymap/#12)
 
 Database:
 Reflection:
