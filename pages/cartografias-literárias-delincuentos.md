@@ -12,8 +12,7 @@ nav: false
 
 <div style="height: 2rem;"></div>
 
-**[Delincuentos Map:](https://elisabric.github.io/delincuentos/){:target="_blank" rel="noopener"}
-**
+[Delincuentos Map:](https://elisabric.github.io/delincuentos/){:target="_blank" rel="noopener"}
 <iframe
 	src="https://elisabric.github.io/delincuentos/"
 	width="100%"
@@ -27,8 +26,7 @@ nav: false
 
 
 
-**[Delincuentos StoryMap:](https://elisabric.github.io/delincuentos-storymap/#12){:target="_blank" rel="noopener"}
-**
+[Delincuentos StoryMap:](https://elisabric.github.io/delincuentos-storymap/#12){:target="_blank" rel="noopener"}
 <iframe
 	src="https://elisabric.github.io/delincuentos-storymap/#12"
 	width="100%"
