@@ -8,6 +8,7 @@ nav: false
 # Delincuentos: Historias Del Narcotrafico
 
 **Description:**
+
 **Delincuentos: historias del narcotráfico, by Arminé Arjona**, is a collection of short stories centered around humorous recountings. This serves as a key discursive strategy that allows her to engage the complex realities of Mexico’s northern border, while enabling readers to (re)recognize the dynamics that bosses, street-level dealers, mules, and even privileged “juniors” establish around their illicit activities.
 
 <div style="height: 2rem;"></div>
